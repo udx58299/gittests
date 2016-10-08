@@ -1,6 +1,5 @@
-this is the code for feature two
+This is the code for feature two
 Some more 
-Bugs...
 
-asdfasdfa
-asdfasdf
+Asdfasdfa
+Asdfasdf

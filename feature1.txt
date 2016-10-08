@@ -1,2 +1,2 @@
-this is the feature one
+This is the feature one
 Some more code
