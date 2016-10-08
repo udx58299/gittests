@@ -1,0 +1,3 @@
+Feature 4 code
+not part of 1.0.1
+Even more changes to this feature
